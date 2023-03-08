@@ -13,8 +13,11 @@ A single-page application built with React displaying my bio, resume and skills,
 # Usage
 Click any of the links in the header and footer to navigate.
 
+# Screenshot
+[image](./build/img/screenshot.png)
+
 # Deployment
-[Link] 
+[Link](https://dorsariahi.github.io/portfolio/)
 # Screenshot
 
 # Questions
